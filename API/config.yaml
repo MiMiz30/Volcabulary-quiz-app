@@ -1,0 +1,10 @@
+app:
+  port: 8000
+
+db: 
+  driver: "postgresql"
+  host: "localhost"
+  port: 5432
+  username: "postgres"
+  password: "08012002"
+  database: "setup"
